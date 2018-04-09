@@ -2,40 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c3f65acc-f659-4132-b3b8-ff7e89c69c74" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.htaccess" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/my-test-htmlpr.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/browserconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/normalize.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/TOC.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/css.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/extend.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/faq.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/html.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/js.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/misc.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/usage.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/humans.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/plugins.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/vendor/jquery-3.2.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/vendor/modernizr-3.5.0.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/site.webmanifest" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tile-wide.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -49,15 +18,36 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="main.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/css/main.css">
-          <provider selected="true" editor-type-id="text-editor" />
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="558">
+              <caret line="31" column="16" lean-forward="true" selection-start-line="31" selection-start-column="16" selection-end-line="31" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -74,6 +64,7 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
+      <autoscrollFromSource ProjectPane="true" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
@@ -83,11 +74,6 @@
             <path>
               <item name="my-test-htmlpr" type="b2602c69:ProjectViewProjectNode" />
               <item name="my-test-htmlpr" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="my-test-htmlpr" type="b2602c69:ProjectViewProjectNode" />
-              <item name="my-test-htmlpr" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -135,16 +121,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1523299705369</updated>
-      <workItem from="1523299709370" duration="175000" />
+      <workItem from="1523299709370" duration="724000" />
     </task>
+    <task id="LOCAL-00001" summary="adding all files of project + adding one line of code">
+      <created>1523300107380</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1523300107380</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="175000" />
+    <option name="totallyTimeSpent" value="724000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="64" y="-11" width="1857" height="988" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14986522" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -171,9 +164,34 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="adding all files of project + adding one line of code" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding all files of project + adding one line of code" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-864" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/404.html">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="31" column="16" lean-forward="true" selection-start-line="31" selection-start-column="16" selection-end-line="31" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
